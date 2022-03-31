@@ -1,0 +1,77 @@
+body {
+    background: url("/images/water-1330252_1920.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+ h1 {
+    text-align: center;
+    font-size: 85px;
+    color: black;
+    font-family: "Courier New", Courier, monospace;
+
+  }
+ 
+ .titulo2{
+     text-align: center;
+     font-size: 34px;
+ }
+ 
+ 
+  hr {
+    width: 50%;
+    height: 10px;
+    background-color: black;
+  }
+  
+  .linha1 {
+    background-color: black;
+  }
+  
+  .linha2 {
+    background-color: black;
+  }
+  
+  .linha3 {
+    background-color: black;
+  }
+  
+  p {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
+  #foto1 {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  
+  .videozinho {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  
+  a {
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+    width: 50%;
+  }
+  
+  .textorodape {
+    text-align: center;
+  }
+  
+  a:hover {
+    color: aqua;
+    text-decoration: underline;
+
+  }
+  

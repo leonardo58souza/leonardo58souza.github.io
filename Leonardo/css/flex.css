@@ -1,0 +1,42 @@
+body{
+    height: 2000px;
+}
+
+#c01{
+    width: 600px;
+    background: #dcdcdc;
+    border: 1px solid black;
+    padding: 15px;
+    margin-bottom: 20px;
+    position: relative;
+    margin-top: 30px;
+}
+
+#c01 h2{
+    border: 1px solid black;
+    width: 200px;
+    background: #5ad1e3;
+    text-align: center;
+    position: absolute;
+    top: -35px;
+    left: 40px;
+    
+}
+
+#c02 {
+    width: 600px;
+    background: #dcdcdc;
+    border: 1px solid black;
+    padding: 15px;
+    position: relative;
+}
+
+#c02 h2{
+    border: 1px solid black;
+    width: 200px;
+    background: #5ad1e3;
+    text-align: center;
+    position: absolute;
+    top: -35px;
+    left: 40px;
+}
